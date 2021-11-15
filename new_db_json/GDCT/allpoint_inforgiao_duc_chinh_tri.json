@@ -1,0 +1,827 @@
+{"id":"3116201004","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3116201004","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"3.8","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"861001","tenmon":"Những nguyên lí cơ bản của chủ nghĩa Mác - Lênin","diem10":"6.0","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"861002","tenmon":"Tư tưởng Hồ Chí Minh","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"820330","tenmon":"Lịch sử triết học phương Tây trước Mác","diem10":"R","diem4":" ","xeploai":"R"}
+{"id":"3116201004","mamon":"820071","tenmon":"Quan hệ công chúng","diem10":"0.8","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"820103","tenmon":"Logic học hình thức","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3116201004","mamon":"KSTA60","tenmon":"Đủ điều kiện học Tiếng Anh I (866101)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"6.6","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"1.6","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"820310","tenmon":"Lịch sử - Văn hóa Nam Bộ","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820329","tenmon":"Lịch sử triết học phương Đông","diem10":"5.8","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"861003","tenmon":"Đường lối cách mạng của ĐCS VN","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"820022","tenmon":"Tôn giáo học","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"5.4","diem4":"1.0","xeploai":"D"}
+{"id":"3116201004","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"2.6","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"5.4","diem4":"1.0","xeploai":"D"}
+{"id":"3116201004","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"865007","tenmon":"Đại cương xã hội học","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"862108","tenmon":"Giáo dục Quốc phòng - An ninh (III)","diem10":"R","diem4":" ","xeploai":"R"}
+{"id":"3116201004","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"813101","tenmon":"Tiếng Trung 1","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"4.4","diem4":"1.0","xeploai":"D"}
+{"id":"3116201004","mamon":"862107","tenmon":"Giáo dục Quốc phòng - An ninh (II)","diem10":"R","diem4":" ","xeploai":"R"}
+{"id":"3116201004","mamon":"820314","tenmon":"Thực tế chuyên môn GDCD","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3116201004","mamon":"820320","tenmon":"Kỹ năng xây dựng kế hoạch và quản lí thời gian","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820307","tenmon":"Khoa học tổ chức","diem10":"6.0","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"R","diem4":" ","xeploai":"R"}
+{"id":"3116201004","mamon":"820023","tenmon":"Chính trị học","diem10":"5.2","diem4":"1.0","xeploai":"D"}
+{"id":"3116201004","mamon":"820111","tenmon":"Thực hành sư phạm THPT 3","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"813002","tenmon":"Tiếng Trung 2","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"4.4","diem4":"1.0","xeploai":"D"}
+{"id":"3116201004","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"820053","tenmon":"Chuyên đề Kinh tế chính trị","diem10":"3.8","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"820050","tenmon":"Chuyên đề Triết học","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3116201004","mamon":"863115","tenmon":"Thực tập sư phạm 1","diem10":"7.5","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"820001","tenmon":"Đạo đức học","diem10":"2.8","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820312","tenmon":"Chuyên đề đổi mới PPDH GDCD","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"820112","tenmon":"Thực hành sư phạm THPT 4","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"862107","tenmon":"Giáo dục Quốc phòng - An ninh (II)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"820328","tenmon":"Lịch sử tư tưởng xã hội chủ nghĩa","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820074","tenmon":"Chủ nghĩa tư bản hiện đại","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820313","tenmon":"Tìm hiểu thực tế hoạt động của HT chính trị","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3116201004","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"820331","tenmon":"Lịch sử triết học phương Tây hiện đại","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820317","tenmon":"Kỹ năng giao tiếp và đàm phán","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"820326","tenmon":"Chuyên đề ĐLCM của Đảng Cộng sản VN","diem10":"4.8","diem4":"1.0","xeploai":"D"}
+{"id":"3116201004","mamon":"820301","tenmon":"Kỹ năng soạn thảo văn bản hành chính","diem10":"5.9","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"820327","tenmon":"Chuyên đề tư tưởng Hồ Chí Minh","diem10":"4.5","diem4":"1.0","xeploai":"D"}
+{"id":"3116201004","mamon":"820315","tenmon":"Chính trị học so sánh","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820325","tenmon":"PP tiếp cận và xử lý các tình huống chính trị","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"863014","tenmon":"Thực tập sư phạm 2","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"820322","tenmon":"Logic biện chứng","diem10":"8.1","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820002","tenmon":"Dân tộc học đại cương","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"820053","tenmon":"Chuyên đề Kinh tế chính trị","diem10":"6.0","diem4":"2.0","xeploai":"C"}
+{"id":"3116201004","mamon":"820321","tenmon":"Thực hành NCKH chuyên ngành","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"862108","tenmon":"Giáo dục Quốc phòng - An ninh (III)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"866103","tenmon":"Tiếng Anh III","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"820001","tenmon":"Đạo đức học","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"4.6","diem4":"1.0","xeploai":"D"}
+{"id":"3116201004","mamon":"820321","tenmon":"Thực hành NCKH chuyên ngành","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3116201004","mamon":"862406","tenmon":"Giáo dục quốc phòng và an ninh I","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3116201004","mamon":"862406","tenmon":"Giáo dục quốc phòng và an ninh I","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3116201004","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3116201004","mamon":"866103","tenmon":"Tiếng Anh III","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3116201004","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3116201004","mamon":"820415","tenmon":"Hệ thống chính trị Việt Nam","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3116201004","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3116201004","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3116201004","mamon":"820001","tenmon":"Đạo đức học","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3117200002","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200002","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3117200002","mamon":"861001","tenmon":"Những nguyên lí cơ bản của chủ nghĩa Mác - Lênin","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"KSTA30","tenmon":"Đủ điều kiện học Tiếng Anh tăng cường 2 (TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200002","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"861002","tenmon":"Tư tưởng Hồ Chí Minh","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820329","tenmon":"Lịch sử triết học phương Đông","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"865003","tenmon":"Lịch sử văn minh Thế giới","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200002","mamon":"820103","tenmon":"Logic học hình thức","diem10":"4.2","diem4":"1.0","xeploai":"D"}
+{"id":"3117200002","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"KSTA30","tenmon":"Đủ điều kiện học Tiếng Anh tăng cường 2 (TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200002","mamon":"865007","tenmon":"Đại cương xã hội học","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"861003","tenmon":"Đường lối cách mạng của ĐCS VN","diem10":"4.4","diem4":"1.0","xeploai":"D"}
+{"id":"3117200002","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"6.0","diem4":"2.0","xeploai":"C"}
+{"id":"3117200002","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"5.8","diem4":"2.0","xeploai":"C"}
+{"id":"3117200002","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820314","tenmon":"Thực tế chuyên môn GDCD","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117200002","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200002","mamon":"KSTA30","tenmon":"Đủ điều kiện học Tiếng Anh tăng cường 2 (TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200002","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820022","tenmon":"Tôn giáo học","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820320","tenmon":"Kỹ năng xây dựng kế hoạch và quản lí thời gian","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"CALO11","tenmon":"Cầu lông 1","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3117200002","mamon":"KSTA30","tenmon":"Đủ điều kiện học Tiếng Anh tăng cường 2 (TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200002","mamon":"CALO12","tenmon":"Cầu lông 2","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200002","mamon":"820023","tenmon":"Chính trị học","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3117200002","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820317","tenmon":"Kỹ năng giao tiếp và đàm phán","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3117200002","mamon":"KSTA60","tenmon":"Đủ điều kiện học Tiếng Anh I (866101)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200002","mamon":"862308","tenmon":"Giáo dục quốc phòng và An ninh 3","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3117200002","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"5.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200002","mamon":"820111","tenmon":"Thực hành sư phạm THPT 3","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820002","tenmon":"Dân tộc học đại cương","diem10":"7.5","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"863115","tenmon":"Thực tập sư phạm 1","diem10":"9.8","diem4":"4.0","xeploai":"A"}
+{"id":"3117200002","mamon":"820050","tenmon":"Chuyên đề Triết học","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820053","tenmon":"Chuyên đề Kinh tế chính trị","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3117200002","mamon":"820312","tenmon":"Chuyên đề đổi mới PPDH GDCD","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820112","tenmon":"Thực hành sư phạm THPT 4","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820001","tenmon":"Đạo đức học","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3117200002","mamon":"862309","tenmon":"Giáo dục quốc phòng và An ninh 4","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117200002","mamon":"820074","tenmon":"Chủ nghĩa tư bản hiện đại","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3117200002","mamon":"820315","tenmon":"Chính trị học so sánh","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820326","tenmon":"Chuyên đề ĐLCM của Đảng Cộng sản VN","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820328","tenmon":"Lịch sử tư tưởng xã hội chủ nghĩa","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820309","tenmon":"Lịch sử tư tưởng chính trị","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820313","tenmon":"Tìm hiểu thực tế hoạt động của HT chính trị","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3117200002","mamon":"820327","tenmon":"Chuyên đề tư tưởng Hồ Chí Minh","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"866103","tenmon":"Tiếng Anh III","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3117200002","mamon":"820301","tenmon":"Kỹ năng soạn thảo văn bản hành chính","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"863014","tenmon":"Thực tập sư phạm 2","diem10":"10.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117200002","mamon":"820325","tenmon":"PP tiếp cận và xử lý các tình huống chính trị","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200002","mamon":"820322","tenmon":"Logic biện chứng","diem10":"9.4","diem4":"4.0","xeploai":"A"}
+{"id":"3117200002","mamon":"820321","tenmon":"Thực hành NCKH chuyên ngành","diem10":"9.4","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"861001","tenmon":"Những nguyên lí cơ bản của chủ nghĩa Mác - Lênin","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"4.8","diem4":"1.0","xeploai":"D"}
+{"id":"3117200007","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"5.4","diem4":"1.0","xeploai":"D"}
+{"id":"3117200007","mamon":"820103","tenmon":"Logic học hình thức","diem10":"4.2","diem4":"1.0","xeploai":"D"}
+{"id":"3117200007","mamon":"861002","tenmon":"Tư tưởng Hồ Chí Minh","diem10":"3.6","diem4":"0.0","xeploai":"F"}
+{"id":"3117200007","mamon":"865003","tenmon":"Lịch sử văn minh Thế giới","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"6.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"820329","tenmon":"Lịch sử triết học phương Đông","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"4.6","diem4":"1.0","xeploai":"D"}
+{"id":"3117200007","mamon":"861003","tenmon":"Đường lối cách mạng của ĐCS VN","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"R","diem4":" ","xeploai":"R"}
+{"id":"3117200007","mamon":"820071","tenmon":"Quan hệ công chúng","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3117200007","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3117200007","mamon":"865007","tenmon":"Đại cương xã hội học","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"4.6","diem4":"1.0","xeploai":"D"}
+{"id":"3117200007","mamon":"820320","tenmon":"Kỹ năng xây dựng kế hoạch và quản lí thời gian","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"5.8","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"5.2","diem4":"1.0","xeploai":"D"}
+{"id":"3117200007","mamon":"BORO11","tenmon":"Bóng rổ 1","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820022","tenmon":"Tôn giáo học","diem10":"4.2","diem4":"1.0","xeploai":"D"}
+{"id":"3117200007","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":"5.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"KSTA60","tenmon":"Đủ điều kiện học Tiếng Anh I (866101)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200007","mamon":"820314","tenmon":"Thực tế chuyên môn GDCD","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"3.6","diem4":"0.0","xeploai":"F"}
+{"id":"3117200007","mamon":"820111","tenmon":"Thực hành sư phạm THPT 3","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"4.2","diem4":"1.0","xeploai":"D"}
+{"id":"3117200007","mamon":"820023","tenmon":"Chính trị học","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"BORO12","tenmon":"Bóng rổ 2","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820317","tenmon":"Kỹ năng giao tiếp và đàm phán","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820001","tenmon":"Đạo đức học","diem10":"7.5","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820112","tenmon":"Thực hành sư phạm THPT 4","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820050","tenmon":"Chuyên đề Triết học","diem10":"8.1","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820312","tenmon":"Chuyên đề đổi mới PPDH GDCD","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820053","tenmon":"Chuyên đề Kinh tế chính trị","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":"5.8","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"863115","tenmon":"Thực tập sư phạm 1","diem10":"9.2","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"820002","tenmon":"Dân tộc học đại cương","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"820315","tenmon":"Chính trị học so sánh","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"820313","tenmon":"Tìm hiểu thực tế hoạt động của HT chính trị","diem10":"9.3","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"820326","tenmon":"Chuyên đề ĐLCM của Đảng Cộng sản VN","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"820327","tenmon":"Chuyên đề tư tưởng Hồ Chí Minh","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"866103","tenmon":"Tiếng Anh III","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"820074","tenmon":"Chủ nghĩa tư bản hiện đại","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"820328","tenmon":"Lịch sử tư tưởng xã hội chủ nghĩa","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200007","mamon":"820301","tenmon":"Kỹ năng soạn thảo văn bản hành chính","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200007","mamon":"820322","tenmon":"Logic biện chứng","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"820325","tenmon":"PP tiếp cận và xử lý các tình huống chính trị","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"863014","tenmon":"Thực tập sư phạm 2","diem10":"9.8","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"820321","tenmon":"Thực hành NCKH chuyên ngành","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3117200007","mamon":"863412","tenmon":"Quản lý HCNN & quản lý ngành GD-ĐT (trường trung học)","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3117200023","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3117200023","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"6.0","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"4.4","diem4":"1.0","xeploai":"D"}
+{"id":"3117200023","mamon":"861001","tenmon":"Những nguyên lí cơ bản của chủ nghĩa Mác - Lênin","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"4.8","diem4":"1.0","xeploai":"D"}
+{"id":"3117200023","mamon":"861002","tenmon":"Tư tưởng Hồ Chí Minh","diem10":"R","diem4":" ","xeploai":"R"}
+{"id":"3117200023","mamon":"820329","tenmon":"Lịch sử triết học phương Đông","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"6.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"865003","tenmon":"Lịch sử văn minh Thế giới","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820103","tenmon":"Logic học hình thức","diem10":"2.4","diem4":"0.0","xeploai":"F"}
+{"id":"3117200023","mamon":"820307","tenmon":"Khoa học tổ chức","diem10":"3.5","diem4":"0.0","xeploai":"F"}
+{"id":"3117200023","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"5.8","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"865007","tenmon":"Đại cương xã hội học","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"861003","tenmon":"Đường lối cách mạng của ĐCS VN","diem10":"3.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200023","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"6.0","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":"5.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820103","tenmon":"Logic học hình thức","diem10":"4.6","diem4":"1.0","xeploai":"D"}
+{"id":"3117200023","mamon":"820314","tenmon":"Thực tế chuyên môn GDCD","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"H","diem4":" ","xeploai":"H"}
+{"id":"3117200023","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"6.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820022","tenmon":"Tôn giáo học","diem10":"5.2","diem4":"1.0","xeploai":"D"}
+{"id":"3117200023","mamon":"820320","tenmon":"Kỹ năng xây dựng kế hoạch và quản lí thời gian","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"6.0","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"KSTA60","tenmon":"Đủ điều kiện học Tiếng Anh I (866101)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200023","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"6.0","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"861002","tenmon":"Tư tưởng Hồ Chí Minh","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"4.4","diem4":"1.0","xeploai":"D"}
+{"id":"3117200023","mamon":"BOCH11","tenmon":"Bóng chuyền 1","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3117200023","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"4.6","diem4":"1.0","xeploai":"D"}
+{"id":"3117200023","mamon":"820111","tenmon":"Thực hành sư phạm THPT 3","diem10":"5.8","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"5.7","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820317","tenmon":"Kỹ năng giao tiếp và đàm phán","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"820023","tenmon":"Chính trị học","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"863115","tenmon":"Thực tập sư phạm 1","diem10":"9.8","diem4":"4.0","xeploai":"A"}
+{"id":"3117200023","mamon":"820001","tenmon":"Đạo đức học","diem10":"8.1","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"820053","tenmon":"Chuyên đề Kinh tế chính trị","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820112","tenmon":"Thực hành sư phạm THPT 4","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"820050","tenmon":"Chuyên đề Triết học","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820312","tenmon":"Chuyên đề đổi mới PPDH GDCD","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"820002","tenmon":"Dân tộc học đại cương","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"BOCH12","tenmon":"Bóng chuyền 2","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3117200023","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"3.6","diem4":"0.0","xeploai":"F"}
+{"id":"3117200023","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"3.8","diem4":"0.0","xeploai":"F"}
+{"id":"3117200023","mamon":"820301","tenmon":"Kỹ năng soạn thảo văn bản hành chính","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820327","tenmon":"Chuyên đề tư tưởng Hồ Chí Minh","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820309","tenmon":"Lịch sử tư tưởng chính trị","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"866103","tenmon":"Tiếng Anh III","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3117200023","mamon":"820313","tenmon":"Tìm hiểu thực tế hoạt động của HT chính trị","diem10":"9.3","diem4":"4.0","xeploai":"A"}
+{"id":"3117200023","mamon":"861003","tenmon":"Đường lối cách mạng của ĐCS VN","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820315","tenmon":"Chính trị học so sánh","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"820326","tenmon":"Chuyên đề ĐLCM của Đảng Cộng sản VN","diem10":"6.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820074","tenmon":"Chủ nghĩa tư bản hiện đại","diem10":"6.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200023","mamon":"820328","tenmon":"Lịch sử tư tưởng xã hội chủ nghĩa","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3117200023","mamon":"820325","tenmon":"PP tiếp cận và xử lý các tình huống chính trị","diem10":"5.4","diem4":"1.0","xeploai":"D"}
+{"id":"3117200023","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3117200023","mamon":"820321","tenmon":"Thực hành NCKH chuyên ngành","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3117200023","mamon":"863014","tenmon":"Thực tập sư phạm 2","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3117200023","mamon":"820322","tenmon":"Logic biện chứng","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3117200023","mamon":"863412","tenmon":"Quản lý HCNN & quản lý ngành GD-ĐT (trường trung học)","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3117200023","mamon":"863404","tenmon":"TLH lứa tuổi trung học và TLH sư phạm","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3117200023","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3117200023","mamon":"862309","tenmon":"Giáo dục quốc phòng và An ninh 4","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3117200023","mamon":"862308","tenmon":"Giáo dục quốc phòng và An ninh 3","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3117200029","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"4.4","diem4":"1.0","xeploai":"D"}
+{"id":"3117200029","mamon":"861001","tenmon":"Những nguyên lí cơ bản của chủ nghĩa Mác - Lênin","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3117200029","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"5.8","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"3.2","diem4":"0.0","xeploai":"F"}
+{"id":"3117200029","mamon":"820329","tenmon":"Lịch sử triết học phương Đông","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"865003","tenmon":"Lịch sử văn minh Thế giới","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"820103","tenmon":"Logic học hình thức","diem10":"3.6","diem4":"0.0","xeploai":"F"}
+{"id":"3117200029","mamon":"820307","tenmon":"Khoa học tổ chức","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3117200029","mamon":"861002","tenmon":"Tư tưởng Hồ Chí Minh","diem10":"5.4","diem4":"1.0","xeploai":"D"}
+{"id":"3117200029","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"R","diem4":" ","xeploai":"R"}
+{"id":"3117200029","mamon":"865007","tenmon":"Đại cương xã hội học","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"KSTA30","tenmon":"Đủ điều kiện học Tiếng Anh tăng cường 2 (TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200029","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3117200029","mamon":"861003","tenmon":"Đường lối cách mạng của ĐCS VN","diem10":"2.2","diem4":"0.0","xeploai":"F"}
+{"id":"3117200029","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"4.8","diem4":"1.0","xeploai":"D"}
+{"id":"3117200029","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820022","tenmon":"Tôn giáo học","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820103","tenmon":"Logic học hình thức","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3117200029","mamon":"820314","tenmon":"Thực tế chuyên môn GDCD","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117200029","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"820320","tenmon":"Kỹ năng xây dựng kế hoạch và quản lí thời gian","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"KSTA30","tenmon":"Đủ điều kiện học Tiếng Anh tăng cường 2 (TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200029","mamon":"CALO11","tenmon":"Cầu lông 1","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"3.4","diem4":"0.0","xeploai":"F"}
+{"id":"3117200029","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"2.4","diem4":"0.0","xeploai":"F"}
+{"id":"3117200029","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3117200029","mamon":"861003","tenmon":"Đường lối cách mạng của ĐCS VN","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"KSTA30","tenmon":"Đủ điều kiện học Tiếng Anh tăng cường 2 (TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200029","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":"8.1","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"KSTA30","tenmon":"Đủ điều kiện học Tiếng Anh tăng cường 2 (TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117200029","mamon":"820111","tenmon":"Thực hành sư phạm THPT 3","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820023","tenmon":"Chính trị học","diem10":"6.3","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"5.4","diem4":"1.0","xeploai":"D"}
+{"id":"3117200029","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"820317","tenmon":"Kỹ năng giao tiếp và đàm phán","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"CALO12","tenmon":"Cầu lông 2","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"862308","tenmon":"Giáo dục quốc phòng và An ninh 3","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820050","tenmon":"Chuyên đề Triết học","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3117200029","mamon":"820001","tenmon":"Đạo đức học","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3117200029","mamon":"820312","tenmon":"Chuyên đề đổi mới PPDH GDCD","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"820053","tenmon":"Chuyên đề Kinh tế chính trị","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"863115","tenmon":"Thực tập sư phạm 1","diem10":"9.8","diem4":"4.0","xeploai":"A"}
+{"id":"3117200029","mamon":"820002","tenmon":"Dân tộc học đại cương","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820112","tenmon":"Thực hành sư phạm THPT 4","diem10":"7.5","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"5.2","diem4":"1.0","xeploai":"D"}
+{"id":"3117200029","mamon":"862309","tenmon":"Giáo dục quốc phòng và An ninh 4","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117200029","mamon":"820309","tenmon":"Lịch sử tư tưởng chính trị","diem10":"7.1","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820327","tenmon":"Chuyên đề tư tưởng Hồ Chí Minh","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820315","tenmon":"Chính trị học so sánh","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820074","tenmon":"Chủ nghĩa tư bản hiện đại","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3117200029","mamon":"820313","tenmon":"Tìm hiểu thực tế hoạt động của HT chính trị","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3117200029","mamon":"820328","tenmon":"Lịch sử tư tưởng xã hội chủ nghĩa","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820301","tenmon":"Kỹ năng soạn thảo văn bản hành chính","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117200029","mamon":"820326","tenmon":"Chuyên đề ĐLCM của Đảng Cộng sản VN","diem10":"7.1","diem4":"3.0","xeploai":"B"}
+{"id":"3117200029","mamon":"820325","tenmon":"PP tiếp cận và xử lý các tình huống chính trị","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3117200029","mamon":"820321","tenmon":"Thực hành NCKH chuyên ngành","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3117200029","mamon":"820322","tenmon":"Logic biện chứng","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3117200029","mamon":"863014","tenmon":"Thực tập sư phạm 2","diem10":"9.5","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820107","tenmon":"Lịch sử ngoại giao Việt Nam","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"861001","tenmon":"Những nguyên lí cơ bản của chủ nghĩa Mác - Lênin","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"5.8","diem4":"2.0","xeploai":"C"}
+{"id":"3117201012","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3117201012","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3117201012","mamon":"KSTA60","tenmon":"Đủ điều kiện học Tiếng Anh I (866101)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3117201012","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820339","tenmon":"Dân số học","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"865003","tenmon":"Lịch sử văn minh Thế giới","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820342","tenmon":"Giáo dục giới tính và sức khỏe sinh sản","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3117201012","mamon":"861002","tenmon":"Tư tưởng Hồ Chí Minh","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820103","tenmon":"Logic học hình thức","diem10":"3.4","diem4":"0.0","xeploai":"F"}
+{"id":"3117201012","mamon":"763004","tenmon":"TLH lứa tuổi THCS và TLH Sư phạm","diem10":"3.8","diem4":"0.0","xeploai":"F"}
+{"id":"3117201012","mamon":"820071","tenmon":"Quan hệ công chúng","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"861003","tenmon":"Đường lối cách mạng của ĐCS VN","diem10":"6.6","diem4":"2.0","xeploai":"C"}
+{"id":"3117201012","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"10.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"4.4","diem4":"1.0","xeploai":"D"}
+{"id":"3117201012","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"865007","tenmon":"Đại cương xã hội học","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820022","tenmon":"Tôn giáo học","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820073","tenmon":"Môi trường và phát triển","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820336","tenmon":"Thực hành sư phạm 2 (THCS)","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"BODA11","tenmon":"Bóng đá 1","diem10":"10.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820103","tenmon":"Logic học hình thức","diem10":"4.6","diem4":"1.0","xeploai":"D"}
+{"id":"3117201012","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"4.8","diem4":"1.0","xeploai":"D"}
+{"id":"3117201012","mamon":"820334","tenmon":"Định hướng giá trị và GDĐH giá trị","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3117201012","mamon":"820320","tenmon":"Kỹ năng xây dựng kế hoạch và quản lí thời gian","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3117201012","mamon":"820314","tenmon":"Thực tế chuyên môn GDCD","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"4.0","diem4":"1.0","xeploai":"D"}
+{"id":"3117201012","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"763008","tenmon":"Tổ chức HĐ DH & GD ở trường THCS","diem10":"4.8","diem4":"1.0","xeploai":"D"}
+{"id":"3117201012","mamon":"820317","tenmon":"Kỹ năng giao tiếp và đàm phán","diem10":"6.1","diem4":"2.0","xeploai":"C"}
+{"id":"3117201012","mamon":"820023","tenmon":"Chính trị học","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"763012","tenmon":"Quản lí HCNN & QL Ngành GD-ĐT (THCS)","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820337","tenmon":"Thực hành sư phạm 3 (THCS)","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"4.9","diem4":"1.0","xeploai":"D"}
+{"id":"3117201012","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"7.5","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"CALO11","tenmon":"Cầu lông 1","diem10":"5.7","diem4":"2.0","xeploai":"C"}
+{"id":"3117201012","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":"7.5","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"862308","tenmon":"Giáo dục quốc phòng và An ninh 3","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820340","tenmon":"Giáo dục đạo đức","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820338","tenmon":"Thực hành sư phạm 4 (THCS)","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820333","tenmon":"Công dân và pháp luật","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"863115","tenmon":"Thực tập sư phạm 1","diem10":"9.4","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820002","tenmon":"Dân tộc học đại cương","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820312","tenmon":"Chuyên đề đổi mới PPDH GDCD","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820001","tenmon":"Đạo đức học","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"863013","tenmon":"Công tác đội TNTP HCM","diem10":"R","diem4":" ","xeploai":"R"}
+{"id":"3117201012","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"763004","tenmon":"TLH lứa tuổi THCS và TLH Sư phạm","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820410","tenmon":"Giáo dục gia đình","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820315","tenmon":"Chính trị học so sánh","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"866103","tenmon":"Tiếng Anh III","diem10":"6.3","diem4":"2.0","xeploai":"C"}
+{"id":"3117201012","mamon":"820021","tenmon":"L/sử tư tưởng phương Đông và VN","diem10":"8.1","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820335","tenmon":"Công tác Đội TNTP HCM","diem10":"8.1","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820313","tenmon":"Tìm hiểu thực tế hoạt động của HT chính trị","diem10":"9.3","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"862309","tenmon":"Giáo dục quốc phòng và An ninh 4","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820301","tenmon":"Kỹ năng soạn thảo văn bản hành chính","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3117201012","mamon":"820321","tenmon":"Thực hành NCKH chuyên ngành","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"863014","tenmon":"Thực tập sư phạm 2","diem10":"9.2","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820322","tenmon":"Logic biện chứng","diem10":"9.3","diem4":"4.0","xeploai":"A"}
+{"id":"3117201012","mamon":"820325","tenmon":"PP tiếp cận và xử lý các tình huống chính trị","diem10":"9.2","diem4":"4.0","xeploai":"A"}
+{"id":"3119200001","mamon":"820343","tenmon":"Triết học Mác-Lênin (GDCT)","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200001","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"7.5","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3119200001","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"5.8","diem4":"2.0","xeploai":"C"}
+{"id":"3119200001","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"5.4","diem4":"1.0","xeploai":"D"}
+{"id":"3119200001","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"6.1","diem4":"2.0","xeploai":"C"}
+{"id":"3119200001","mamon":"820310","tenmon":"Lịch sử - Văn hóa Nam Bộ","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"KSTA60","tenmon":"Đủ điều kiện học Tiếng Anh I (866101)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200001","mamon":"820103","tenmon":"Logic học hình thức","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"6.1","diem4":"2.0","xeploai":"C"}
+{"id":"3119200001","mamon":"820330","tenmon":"Lịch sử triết học phương Tây trước Mác","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"820344","tenmon":"Kinh tế chính trị Mác - Lênin (GDCT)","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3119200001","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"5.8","diem4":"2.0","xeploai":"C"}
+{"id":"3119200001","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3119200001","mamon":"820345","tenmon":"Chủ nghĩa xã hội khoa học (GDCT)","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"866103","tenmon":"Tiếng Anh III","diem10":"6.0","diem4":"2.0","xeploai":"C"}
+{"id":"3119200001","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"7.1","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"BODA11","tenmon":"Bóng đá 1","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"4.0","diem4":"1.0","xeploai":"D"}
+{"id":"3119200001","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"7.1","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"820351","tenmon":"Pháp luật nước Cộng hòa XHCN Việt Nam","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"863404","tenmon":"TLH lứa tuổi trung học và TLH sư phạm","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3119200001","mamon":"820022","tenmon":"Tôn giáo học","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200001","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"820346","tenmon":"Tư tưởng Hồ Chí Minh (GDCT)","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200001","mamon":"BORO11","tenmon":"Bóng rổ 1","diem10":"6.1","diem4":"2.0","xeploai":"C"}
+{"id":"3119200001","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"6.3","diem4":"2.0","xeploai":"C"}
+{"id":"3119200001","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200001","mamon":"820353","tenmon":"Thực hành sư phạm THPT 3","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200001","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200001","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200001","mamon":"820001","tenmon":"Đạo đức học","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200001","mamon":"820318","tenmon":"Kỹ năng làm việc nhóm và thuyết trình","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200002","mamon":"820343","tenmon":"Triết học Mác-Lênin (GDCT)","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"9.2","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"9.3","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"820103","tenmon":"Logic học hình thức","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820330","tenmon":"Lịch sử triết học phương Tây trước Mác","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"820344","tenmon":"Kinh tế chính trị Mác - Lênin (GDCT)","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820310","tenmon":"Lịch sử - Văn hóa Nam Bộ","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"KSTA60","tenmon":"Đủ điều kiện học Tiếng Anh I (866101)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200002","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"5.9","diem4":"2.0","xeploai":"C"}
+{"id":"3119200002","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"9.2","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"9.2","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"9.4","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820351","tenmon":"Pháp luật nước Cộng hòa XHCN Việt Nam","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"9.3","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820345","tenmon":"Chủ nghĩa xã hội khoa học (GDCT)","diem10":"9.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"BODA11","tenmon":"Bóng đá 1","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"9.4","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820022","tenmon":"Tôn giáo học","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"CALO11","tenmon":"Cầu lông 1","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820346","tenmon":"Tư tưởng Hồ Chí Minh (GDCT)","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200002","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200002","mamon":"820318","tenmon":"Kỹ năng làm việc nhóm và thuyết trình","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200002","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200002","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200002","mamon":"820353","tenmon":"Thực hành sư phạm THPT 3","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200002","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200002","mamon":"820001","tenmon":"Đạo đức học","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200002","mamon":"866103","tenmon":"Tiếng Anh III","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200003","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"6.6","diem4":"2.0","xeploai":"C"}
+{"id":"3119200003","mamon":"820343","tenmon":"Triết học Mác-Lênin (GDCT)","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"6.9","diem4":"2.0","xeploai":"C"}
+{"id":"3119200003","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3119200003","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3119200003","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"8.1","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"820310","tenmon":"Lịch sử - Văn hóa Nam Bộ","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"820330","tenmon":"Lịch sử triết học phương Tây trước Mác","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3119200003","mamon":"820103","tenmon":"Logic học hình thức","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"820344","tenmon":"Kinh tế chính trị Mác - Lênin (GDCT)","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3119200003","mamon":"KSTA60","tenmon":"Đủ điều kiện học Tiếng Anh I (866101)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200003","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"BODA11","tenmon":"Bóng đá 1","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3119200003","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"9.4","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"820345","tenmon":"Chủ nghĩa xã hội khoa học (GDCT)","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"5.1","diem4":"1.0","xeploai":"D"}
+{"id":"3119200003","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"820351","tenmon":"Pháp luật nước Cộng hòa XHCN Việt Nam","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"BOCH11","tenmon":"Bóng chuyền 1","diem10":"6.9","diem4":"2.0","xeploai":"C"}
+{"id":"3119200003","mamon":"820022","tenmon":"Tôn giáo học","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"820346","tenmon":"Tư tưởng Hồ Chí Minh (GDCT)","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200003","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200003","mamon":"866103","tenmon":"Tiếng Anh III","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200003","mamon":"820001","tenmon":"Đạo đức học","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200003","mamon":"820318","tenmon":"Kỹ năng làm việc nhóm và thuyết trình","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200003","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200003","mamon":"820353","tenmon":"Thực hành sư phạm THPT 3","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200003","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200003","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200007","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"6.3","diem4":"2.0","xeploai":"C"}
+{"id":"3119200007","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"820343","tenmon":"Triết học Mác-Lênin (GDCT)","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200007","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"4.3","diem4":"1.0","xeploai":"D"}
+{"id":"3119200007","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3119200007","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3119200007","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"5.9","diem4":"2.0","xeploai":"C"}
+{"id":"3119200007","mamon":"820330","tenmon":"Lịch sử triết học phương Tây trước Mác","diem10":"6.1","diem4":"2.0","xeploai":"C"}
+{"id":"3119200007","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"6.5","diem4":"2.0","xeploai":"C"}
+{"id":"3119200007","mamon":"820310","tenmon":"Lịch sử - Văn hóa Nam Bộ","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"820103","tenmon":"Logic học hình thức","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200007","mamon":"TATC01","tenmon":"Tiếng Anh tăng cường 1","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"820344","tenmon":"Kinh tế chính trị Mác - Lênin (GDCT)","diem10":"6.3","diem4":"2.0","xeploai":"C"}
+{"id":"3119200007","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"820351","tenmon":"Pháp luật nước Cộng hòa XHCN Việt Nam","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"BODA11","tenmon":"Bóng đá 1","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200007","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"3.3","diem4":"0.0","xeploai":"F"}
+{"id":"3119200007","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"DAT_TATC01","tenmon":"Đủ điều kiện học TA tăng cường 2 (TATC02) do đạt TATC01","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200007","mamon":"820345","tenmon":"Chủ nghĩa xã hội khoa học (GDCT)","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200007","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"KSTA30","tenmon":"Đủ điều kiện học Tiếng Anh tăng cường 2 (TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200007","mamon":"820022","tenmon":"Tôn giáo học","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"BORO11","tenmon":"Bóng rổ 1","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200007","mamon":"TATC02","tenmon":"Tiếng Anh tăng cường 2","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200007","mamon":"820346","tenmon":"Tư tưởng Hồ Chí Minh (GDCT)","diem10":"7.5","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200007","mamon":"820001","tenmon":"Đạo đức học","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200007","mamon":"820353","tenmon":"Thực hành sư phạm THPT 3","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200007","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200007","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200007","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200007","mamon":"820318","tenmon":"Kỹ năng làm việc nhóm và thuyết trình","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200008","mamon":"820343","tenmon":"Triết học Mác-Lênin (GDCT)","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"4.5","diem4":"1.0","xeploai":"D"}
+{"id":"3119200008","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"5.5","diem4":"2.0","xeploai":"C"}
+{"id":"3119200008","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"KSTA30","tenmon":"Đủ điều kiện học Tiếng Anh tăng cường 2 (TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200008","mamon":"820103","tenmon":"Logic học hình thức","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3119200008","mamon":"820344","tenmon":"Kinh tế chính trị Mác - Lênin (GDCT)","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"TATC02","tenmon":"Tiếng Anh tăng cường 2","diem10":"5.0","diem4":"1.0","xeploai":"D"}
+{"id":"3119200008","mamon":"820330","tenmon":"Lịch sử triết học phương Tây trước Mác","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"820310","tenmon":"Lịch sử - Văn hóa Nam Bộ","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"9.3","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"9.4","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"DAT_TATC02","tenmon":"Đủ điều kiện học Tiếng Anh I (866101) (đat TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200008","mamon":"820345","tenmon":"Chủ nghĩa xã hội khoa học (GDCT)","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"820351","tenmon":"Pháp luật nước Cộng hòa XHCN Việt Nam","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"BODA11","tenmon":"Bóng đá 1","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"9.2","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"820346","tenmon":"Tư tưởng Hồ Chí Minh (GDCT)","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"BOCH11","tenmon":"Bóng chuyền 1","diem10":"8.1","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"820022","tenmon":"Tôn giáo học","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200008","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200008","mamon":"820318","tenmon":"Kỹ năng làm việc nhóm và thuyết trình","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200008","mamon":"820353","tenmon":"Thực hành sư phạm THPT 3","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200008","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200008","mamon":"820001","tenmon":"Đạo đức học","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200008","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200008","mamon":"866103","tenmon":"Tiếng Anh III","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200008","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200009","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200009","mamon":"820343","tenmon":"Triết học Mác-Lênin (GDCT)","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200009","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"4.6","diem4":"1.0","xeploai":"D"}
+{"id":"3119200009","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"6.0","diem4":"2.0","xeploai":"C"}
+{"id":"3119200009","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200009","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"820330","tenmon":"Lịch sử triết học phương Tây trước Mác","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"7.1","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3119200009","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3119200009","mamon":"820310","tenmon":"Lịch sử - Văn hóa Nam Bộ","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"5.8","diem4":"2.0","xeploai":"C"}
+{"id":"3119200009","mamon":"820344","tenmon":"Kinh tế chính trị Mác - Lênin (GDCT)","diem10":"6.6","diem4":"2.0","xeploai":"C"}
+{"id":"3119200009","mamon":"820103","tenmon":"Logic học hình thức","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200009","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"6.9","diem4":"2.0","xeploai":"C"}
+{"id":"3119200009","mamon":"KSTA60","tenmon":"Đủ điều kiện học Tiếng Anh I (866101)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200009","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"6.6","diem4":"2.0","xeploai":"C"}
+{"id":"3119200009","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"4.5","diem4":"1.0","xeploai":"D"}
+{"id":"3119200009","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"866103","tenmon":"Tiếng Anh III","diem10":"6.8","diem4":"2.0","xeploai":"C"}
+{"id":"3119200009","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200009","mamon":"BODA11","tenmon":"Bóng đá 1","diem10":"5.3","diem4":"1.0","xeploai":"D"}
+{"id":"3119200009","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"820345","tenmon":"Chủ nghĩa xã hội khoa học (GDCT)","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200009","mamon":"820351","tenmon":"Pháp luật nước Cộng hòa XHCN Việt Nam","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3119200009","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"6.9","diem4":"2.0","xeploai":"C"}
+{"id":"3119200009","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"8.1","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"820346","tenmon":"Tư tưởng Hồ Chí Minh (GDCT)","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"820022","tenmon":"Tôn giáo học","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3119200009","mamon":"BOBA11","tenmon":"Bóng bàn 1","diem10":"7.1","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200009","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200009","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200009","mamon":"820318","tenmon":"Kỹ năng làm việc nhóm và thuyết trình","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200009","mamon":"820001","tenmon":"Đạo đức học","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200009","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200009","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200009","mamon":"820353","tenmon":"Thực hành sư phạm THPT 3","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200009","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200010","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"9.3","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"7.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200010","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"5.3","diem4":"1.0","xeploai":"D"}
+{"id":"3119200010","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"5.4","diem4":"1.0","xeploai":"D"}
+{"id":"3119200010","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"820343","tenmon":"Triết học Mác-Lênin (GDCT)","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200010","mamon":"820330","tenmon":"Lịch sử triết học phương Tây trước Mác","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200010","mamon":"820310","tenmon":"Lịch sử - Văn hóa Nam Bộ","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200010","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200010","mamon":"820103","tenmon":"Logic học hình thức","diem10":"9.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"820344","tenmon":"Kinh tế chính trị Mác - Lênin (GDCT)","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"KSTA60","tenmon":"Đủ điều kiện học Tiếng Anh I (866101)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200010","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"4.8","diem4":"1.0","xeploai":"D"}
+{"id":"3119200010","mamon":"820345","tenmon":"Chủ nghĩa xã hội khoa học (GDCT)","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3119200010","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3119200010","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200010","mamon":"CALO11","tenmon":"Cầu lông 1","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3119200010","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"820351","tenmon":"Pháp luật nước Cộng hòa XHCN Việt Nam","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200010","mamon":"BOBA11","tenmon":"Bóng bàn 1","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"820022","tenmon":"Tôn giáo học","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"865007","tenmon":"Đại cương xã hội học","diem10":"R","diem4":" ","xeploai":"R"}
+{"id":"3119200010","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"8.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200010","mamon":"820346","tenmon":"Tư tưởng Hồ Chí Minh (GDCT)","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200010","mamon":"866103","tenmon":"Tiếng Anh III","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3119200010","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200010","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200010","mamon":"820001","tenmon":"Đạo đức học","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200010","mamon":"820318","tenmon":"Kỹ năng làm việc nhóm và thuyết trình","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200010","mamon":"820353","tenmon":"Thực hành sư phạm THPT 3","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200010","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200010","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200011","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"8.1","diem4":"3.0","xeploai":"B"}
+{"id":"3119200011","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200011","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"6.1","diem4":"2.0","xeploai":"C"}
+{"id":"3119200011","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"9.4","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820343","tenmon":"Triết học Mác-Lênin (GDCT)","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"4.2","diem4":"1.0","xeploai":"D"}
+{"id":"3119200011","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"9.2","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820103","tenmon":"Logic học hình thức","diem10":"9.4","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200011","mamon":"KSTA60","tenmon":"Đủ điều kiện học Tiếng Anh I (866101)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200011","mamon":"820310","tenmon":"Lịch sử - Văn hóa Nam Bộ","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"6.9","diem4":"2.0","xeploai":"C"}
+{"id":"3119200011","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"7.6","diem4":"3.0","xeploai":"B"}
+{"id":"3119200011","mamon":"820330","tenmon":"Lịch sử triết học phương Tây trước Mác","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200011","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"6.6","diem4":"2.0","xeploai":"C"}
+{"id":"3119200011","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3119200011","mamon":"820344","tenmon":"Kinh tế chính trị Mác - Lênin (GDCT)","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3119200011","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"9.4","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"CALO11","tenmon":"Cầu lông 1","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"9.3","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820351","tenmon":"Pháp luật nước Cộng hòa XHCN Việt Nam","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200011","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"5.6","diem4":"2.0","xeploai":"C"}
+{"id":"3119200011","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"9.4","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820345","tenmon":"Chủ nghĩa xã hội khoa học (GDCT)","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820022","tenmon":"Tôn giáo học","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"CALO12","tenmon":"Cầu lông 2","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"8.7","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820346","tenmon":"Tư tưởng Hồ Chí Minh (GDCT)","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200011","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200011","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200011","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200011","mamon":"820353","tenmon":"Thực hành sư phạm THPT 3","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200011","mamon":"866103","tenmon":"Tiếng Anh III","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200011","mamon":"820001","tenmon":"Đạo đức học","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200011","mamon":"820318","tenmon":"Kỹ năng làm việc nhóm và thuyết trình","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200011","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200011","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200013","mamon":"820102","tenmon":"Mỹ học Mác - Lênin","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"862306","tenmon":"Giáo dục quốc phòng và an ninh 1","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"863005","tenmon":"Giáo dục học đại cương","diem10":"4.4","diem4":"1.0","xeploai":"D"}
+{"id":"3119200013","mamon":"863001","tenmon":"Tâm lý học đại cương","diem10":"6.9","diem4":"2.0","xeploai":"C"}
+{"id":"3119200013","mamon":"820311","tenmon":"Nhập môn Giáo dục công dân","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"862101","tenmon":"Giáo dục thể chất (I)","diem10":"6.2","diem4":"2.0","xeploai":"C"}
+{"id":"3119200013","mamon":"820343","tenmon":"Triết học Mác-Lênin (GDCT)","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"820330","tenmon":"Lịch sử triết học phương Tây trước Mác","diem10":"7.8","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"820024","tenmon":"Phương pháp dạy học GDCD 1","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"865002","tenmon":"Cơ sở văn hóa Việt Nam","diem10":"7.1","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"820344","tenmon":"Kinh tế chính trị Mác - Lênin (GDCT)","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"820310","tenmon":"Lịch sử - Văn hóa Nam Bộ","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"862307","tenmon":"Giáo dục quốc phòng và an ninh 2","diem10":"7.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"820103","tenmon":"Logic học hình thức","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"865006","tenmon":"Pháp luật đại cương","diem10":"6.7","diem4":"2.0","xeploai":"C"}
+{"id":"3119200013","mamon":"TATC02","tenmon":"Tiếng Anh tăng cường 2","diem10":"8.1","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"KSTA30","tenmon":"Đủ điều kiện học Tiếng Anh tăng cường 2 (TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200013","mamon":"863008","tenmon":"Tổ chức HĐ d/học & GD ở trường THPT","diem10":"9.2","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"863004","tenmon":"TLH lứa tuổi THPT & TLH sư phạm","diem10":"7.4","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"820345","tenmon":"Chủ nghĩa xã hội khoa học (GDCT)","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"BODA11","tenmon":"Bóng đá 1","diem10":"5.4","diem4":"1.0","xeploai":"D"}
+{"id":"3119200013","mamon":"820109","tenmon":"Thực hành sư phạm THPT 1","diem10":"7.9","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"820025","tenmon":"Phương pháp dạy học GDCD 2","diem10":"9.1","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"820351","tenmon":"Pháp luật nước Cộng hòa XHCN Việt Nam","diem10":"8.0","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"820308","tenmon":"Thống kê trong khoa học xã hội và nhân văn","diem10":"6.4","diem4":"2.0","xeploai":"C"}
+{"id":"3119200013","mamon":"820063","tenmon":"Hiến pháp và định chế chính trị","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"DAT_TATC02","tenmon":"Đủ điều kiện học Tiếng Anh I (866101) (đat TATC02)","diem10":"0.0","diem4":"0.0","xeploai":"F"}
+{"id":"3119200013","mamon":"820052","tenmon":"Lịch sử các học thuyết kinh tế","diem10":"8.8","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"820346","tenmon":"Tư tưởng Hồ Chí Minh (GDCT)","diem10":"7.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"820022","tenmon":"Tôn giáo học","diem10":"8.6","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"CALO11","tenmon":"Cầu lông 1","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"863012","tenmon":"Quản lý HCNN & QL Ngành GD-ĐT (THPT)","diem10":"9.0","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"820332","tenmon":"Kinh tế học đại cương","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"820059","tenmon":"Phương pháp dạy GDCD 3","diem10":"8.5","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"820110","tenmon":"Thực hành sư phạm THPT 2","diem10":"8.2","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"866101","tenmon":"Tiếng Anh I","diem10":"8.9","diem4":"4.0","xeploai":"A"}
+{"id":"3119200013","mamon":"863009","tenmon":"Phương pháp nghiên cứu KHGD","diem10":"7.7","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"866102","tenmon":"Tiếng Anh II","diem10":"8.3","diem4":"3.0","xeploai":"B"}
+{"id":"3119200013","mamon":"820001","tenmon":"Đạo đức học","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200013","mamon":"820353","tenmon":"Thực hành sư phạm THPT 3","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200013","mamon":"820304","tenmon":"Thường thức Mỹ thuật","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200013","mamon":"866103","tenmon":"Tiếng Anh III","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200013","mamon":"820319","tenmon":"Kỹ năng tư duy phản biện và giải quyết vấn đề","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200013","mamon":"820318","tenmon":"Kỹ năng làm việc nhóm và thuyết trình","diem10":" ","diem4":" ","xeploai":" "}
+{"id":"3119200013","mamon":"820055","tenmon":"Những vấn đề của thời đại ngày nay","diem10":" ","diem4":" ","xeploai":" "}
